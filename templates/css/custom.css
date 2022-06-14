@@ -1,0 +1,7 @@
+.multiple-choice{
+    padding: 8px 8px 8px 32px;
+    font-family: Arial, Verdana;   
+   background: #f0f0f0 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABfUlEQVQ4y42TP2tUQRTFf3PnPYiLIAiKiKhIsLbxS9hZaykWNmKjgqT0A6SxslRIFRsRv0QwdZB1YyGipImbzWbfnHst3sZdZF92Bw7D/LmH37nDpL1NAyAlHgDXWW18j+A9QBXTnQhu3H704TXS2aU5s/f2/qvTZeXx78goDdE0Z9anusYDmxn4zMAlYglBMsN9zkAzgxwrGGCGnLzIwELCVZbUG+oicDWoLOtBhZwcAQFUZd6gCC/dBPW5Hr+/7VPaCHci2DU5TJVDBe+Q5cyvwT4ucfdleS7noQdURfMEDd4Rwc04OvzDtfWbjCYTitpG/hehoI4IZhmpjTgcj09jUGmeQAVXB4EypbRxjk5O0JTAvgygOBSnap9xsUJC0/nx4BLFW3p78c7Z6SeOJ2ktvL2wUC7G4zHh4uBgxPEkre30Ewb0NrZ0+XDEeUtGXdULZckYDodYMp59vLD9eZftjS31EnARuPr0Xn6yfoVbq/zlrz/pb37SG+DHXyrMGdFXikHpAAAAAElFTkSuQmCC);
+       background-position: 8px 8px;
+       background-repeat: no-repeat;
+   }
